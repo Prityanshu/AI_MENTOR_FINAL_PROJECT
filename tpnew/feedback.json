@@ -1,0 +1,25 @@
+{
+    "how many leaves can i take in an year?": {
+        "received_response": "10 days",
+        "suggested_response": "15 days"
+    },
+    "what is the weather today?": {
+        "received_response": "I'm not sure how to help with that. Try asking about academic queries, leave requests, certificates, or other student services.",
+        "suggested_response": "sunny"
+    },
+    "how is your day": {
+        "received_response": "I'm not sure how to help with that. Try asking about academic queries, leave requests, certificates, or other student services.",
+        "suggested_response": "good",
+        "count": 1
+    },
+    "the weather is sunny": {
+        "received_response": "I'm not sure how to help with that. Try asking about academic queries, leave requests, certificates, or other student services.",
+        "suggested_response": "yes it is",
+        "count": 1
+    },
+    "how is the weather?": {
+        "received_response": "I'm not sure how to help with that. Try asking about academic queries, leave requests, certificates, or other student services.",
+        "suggested_response": "sunny",
+        "count": 1
+    }
+}
